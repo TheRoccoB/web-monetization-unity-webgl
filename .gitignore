@@ -36,7 +36,7 @@ sysinfo.txt
 
 # Builds
 *.apk
-*.unitypackage
+# *.unitypackage
 
 WebGLBuild/
 
