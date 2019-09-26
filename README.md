@@ -6,13 +6,15 @@ The [Web Monetization API](https://webmonetization.org) is a proposed [W3C stand
 
 This project is provided for free by [SIMMER.io](https://simmer.io), because we want you to be able to make money with your web games whether or not you use our platform. If you have a cool game to share, consider [uploading it](https://simmer.io) to our site!
 
+Requires Unity 2017.1 or later
+
 # Video Tutorial
 
 Probably the easiest way to learn this is to watch [our tutorial](https://youtu.be/ySjl7HlW7EA) on Youtube. 
 
 # Getting the Package
 
-If you're viewing this on Github, you can get the latest release Unity Package in `Releases/`. If you're on the Unity Asset Store, simply download and import the asset on your project.
+If you're viewing this on Github, you can get the latest release Unity Package in [Releases](https://github.com/TheRoccoB/web-monetization-unity-webgl/tree/master/Releases). If you're on the Unity Asset Store, simply download and import the asset on your project.
 
 # Quickstart
 
