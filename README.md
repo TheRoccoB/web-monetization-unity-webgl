@@ -10,7 +10,7 @@ Requires Unity 2017.1 or later
 
 # Video Tutorial
 
-Probably the easiest way to learn this is to watch [our tutorial](https://youtu.be/ySjl7HlW7EA) on Youtube. 
+Watch [our tutorial](https://youtu.be/ySjl7HlW7EA) on Youtube. 
 
 # Download
 
@@ -20,14 +20,16 @@ Probably the easiest way to learn this is to watch [our tutorial](https://youtu.
 
 # Quickstart
 
-You might want to first read [Writing a Web Monetized Game](https://coil.com/p/sharafian/Writing-a-Web-Monetized-Game/1i3t_1Frk) for an overview of a simple explanation of monetizing a game. 
+You might want to first read [Writing a Web Monetized Game](https://coil.com/p/sharafian/Writing-a-Web-Monetized-Game/1i3t_1Frk) for an overview of a simple explanation of monetizing a game (non unity specific). 
 
-You can also export `SampleScene/WebMonetizationSampleScene` to WebGL. If you have a Web Monetization browser plugin (Coil - [Chrome](https://chrome.google.com/webstore/detail/coil/locbifcbeldmnphbgkdigjmkbfkhbnca) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/coil/)) and a paid account, you'll see a coin jar filling up with coins. If you don't have the extension or a paid account, you can click the "Simulate Monetization" button in the game to see what it's supposed to look like.
+First import the .unitypackage file into Unity 2017.1+. (Assets => Import Package => Custom Package...)
+
+Once loaded, you can also export `SampleScene/WebMonetizationSampleScene` to WebGL. If you have a Web Monetization browser plugin (Coil - [Chrome](https://chrome.google.com/webstore/detail/coil/locbifcbeldmnphbgkdigjmkbfkhbnca) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/coil/)) and a paid account, you'll see a coin jar filling up with coins. If you don't have the extension or a paid account, you can click the "Simulate Monetization" button in the game to see what it's supposed to look like.
 
 Add monetization to your game:
 
 1. Add `Prefabs/WebMonetizationBroadcaster` to your scene
-1. Get a creator account at [coil.com](https://coil.com) and set the `Payment Pointer` in the `WebMonetizationBroadcaster` properties window
+1. Get a creator account at [coil.com](https://coil.com) and set the `Payment Pointer` in the `WebMonetizationBroadcaster` properties window. (I found that it was easiest to setup an XRP wallet vs a Stronghold bank account).
 
 Recommended: Add player benefits when monetization events occur: 
 
