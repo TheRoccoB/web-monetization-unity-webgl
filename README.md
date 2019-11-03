@@ -14,9 +14,9 @@ Probably the easiest way to learn this is to watch [our tutorial](https://youtu.
 
 # Download
 
-If you're viewing this on Github, you can get the latest release Unity Package in [Releases](https://github.com/TheRoccoB/web-monetization-unity-webgl/tree/master/Releases). 
+[Download 1.0](https://github.com/TheRoccoB/web-monetization-unity-webgl/blob/master/Releases/webmon1.0.0.unitypackage?raw=true)
 
-[https://github.com/TheRoccoB/web-monetization-unity-webgl/blob/master/Releases/webmon1.0.0.unitypackage?raw=true](v1.0)
+[All Releases](https://github.com/TheRoccoB/web-monetization-unity-webgl/tree/master/Releases). 
 
 # Quickstart
 
