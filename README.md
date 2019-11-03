@@ -12,9 +12,11 @@ Requires Unity 2017.1 or later
 
 Probably the easiest way to learn this is to watch [our tutorial](https://youtu.be/ySjl7HlW7EA) on Youtube. 
 
-# Getting the Package
+# Download
 
-If you're viewing this on Github, you can get the latest release Unity Package in [Releases](https://github.com/TheRoccoB/web-monetization-unity-webgl/tree/master/Releases). If you're on the Unity Asset Store, simply download and import the asset on your project.
+If you're viewing this on Github, you can get the latest release Unity Package in [Releases](https://github.com/TheRoccoB/web-monetization-unity-webgl/tree/master/Releases). 
+
+[https://github.com/TheRoccoB/web-monetization-unity-webgl/blob/master/Releases/webmon1.0.0.unitypackage?raw=true](v1.0)
 
 # Quickstart
 
